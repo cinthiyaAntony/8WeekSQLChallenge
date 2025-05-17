@@ -1,4 +1,4 @@
-**Case Study #1 - Danny's Diner**
+![image](https://github.com/user-attachments/assets/b199a9fe-25f9-446e-ac75-cf154e78cd3e)**Case Study #1 - Danny's Diner**
 ![image](https://github.com/user-attachments/assets/eb2b1acf-401b-404f-b457-85ee51830986)
 
 **Table of Content**
@@ -31,3 +31,16 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 **Answer**
 
 ![image](https://github.com/user-attachments/assets/ffb45e5b-5443-4ec4-9ac6-e0a5fcfb5b4f)
+
+2. How many days has each customer visited the restaurant?
+
+![image](https://github.com/user-attachments/assets/6f00c51b-7fdd-4821-847a-3b730a079f28)
+
+**Steps:**
+* We can calculate the number of days each customer visited the restaurant by using **COUNT(order_date)** and grouping the results by customer_id,  **GROUP BY customer_id** clause
+* To get the number of unique days a customer visited (ignoring multiple orders on the same day), we use **COUNT(DISTINCT order_date)**
+
+**Answer**
+
+![image](https://github.com/user-attachments/assets/bf8ea451-d5ee-4340-8eb7-d37160a0bc8a)
+
