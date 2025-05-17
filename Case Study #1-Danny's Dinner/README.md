@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b199a9fe-25f9-446e-ac75-cf154e78cd3e)**Case Study #1 - Danny's Diner**
+**Case Study #1 - Danny's Diner**
+
 ![image](https://github.com/user-attachments/assets/eb2b1acf-401b-404f-b457-85ee51830986)
 
 **Table of Content**
