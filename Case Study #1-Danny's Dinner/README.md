@@ -33,6 +33,8 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 
 ![image](https://github.com/user-attachments/assets/ffb45e5b-5443-4ec4-9ac6-e0a5fcfb5b4f)
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 2. How many days has each customer visited the restaurant?
 
 ![image](https://github.com/user-attachments/assets/6f00c51b-7fdd-4821-847a-3b730a079f28)
@@ -44,4 +46,23 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 **Answer**
 
 ![image](https://github.com/user-attachments/assets/bf8ea451-d5ee-4340-8eb7-d37160a0bc8a)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+3. What was the first item from the menu purchased by each customer?
+
+![image](https://github.com/user-attachments/assets/15ad8b85-67e4-4eec-a80b-e1468f614406)
+
+**Steps:**
+* Using Common Table Expression CTE, We use DENSE_RANK() function to rankand parition by customer id to divide the data and order by to rank based on order date
+* In Outer Query, apply a Where clause to retrive the rows which have rank 1
+
+**Answer**
+![image](https://github.com/user-attachments/assets/6f32b641-9450-4a40-8ed1-5f05f3f5cdcf)
+
+* Here, Customer C has ordered ramen two times on first date, we can use GROUP BY customer_id, product_name clause collapses rows where both the customer and the product name are the same.
+* Instead of DENSE_RANK(), we could use ROW_NUMBER(), which assigns consecutive ranks even when rows have the same values. However, since order_date lacks timestamp information to distinguish order times, DENSE_RANK() is preferable
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
