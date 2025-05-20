@@ -66,3 +66,27 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
+![image](https://github.com/user-attachments/assets/bcb41f5f-d259-465a-87c4-4c8180619769)
+
+**Steps:**
+
+* To determine the most purchased item, we use COUNT(product_id) to count purchases for each product, group the results by product_name
+* Then order the results by the purchase count in descending order, and finally, retrieve the top row.  
+
+**Answer**
+![image](https://github.com/user-attachments/assets/8c734137-0feb-4130-bd92-a2267ca5c7e4)
+
+5. Which item was the most popular for each customer?
+
+![image](https://github.com/user-attachments/assets/7bb67171-2564-4d0c-9def-8ab7cec63863)
+
+**Steps:**
+* Create a CTE named tmp, join the table menu and sales table using the productid column
+* Group by customer id and product name and count(product_id) to find the occurences for each group
+* Using DENSE_RANK() window function, to calculate the ranking of each customer_id based on the count of orders COUNT(product_id) in descending order
+* In outer query, Select the appropriate column and WHERE clause to retrive the rowN column equals to 1, represent the highest popular item for each customer
+
+**Answer**
+
+![image](https://github.com/user-attachments/assets/c8381b50-21e5-4f65-9810-2a8b3e74d604)
+
