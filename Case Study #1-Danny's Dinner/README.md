@@ -76,6 +76,7 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 **Answer**
 ![image](https://github.com/user-attachments/assets/8c734137-0feb-4130-bd92-a2267ca5c7e4)
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 5. Which item was the most popular for each customer?
 
 ![image](https://github.com/user-attachments/assets/7bb67171-2564-4d0c-9def-8ab7cec63863)
@@ -89,4 +90,11 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 **Answer**
 
 ![image](https://github.com/user-attachments/assets/c8381b50-21e5-4f65-9810-2a8b3e74d604)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+6. Which item was purchased first by the customer after they became a member?
+
+7. Which item was purchased just before the customer became a member?
+
+
 
