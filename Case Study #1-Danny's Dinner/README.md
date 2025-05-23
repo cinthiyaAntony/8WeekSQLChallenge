@@ -94,7 +94,31 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 -------------------------------------------------------------------------------------------------------------------------------------------
 6. Which item was purchased first by the customer after they became a member?
 
+![image](https://github.com/user-attachments/assets/3c7d98cd-8ed0-4ddb-bbd8-b87707430b9a)
+
+**Steps:**
+
+**Answer**
+![image](https://github.com/user-attachments/assets/038cdab5-ff42-415f-9182-450f611ee7cc)
+------------------------------------------------------------------------------------------------------------------------------------------
 7. Which item was purchased just before the customer became a member?
 
+![image](https://github.com/user-attachments/assets/8e3a44f8-2838-4aae-b9f0-2d8f51d98b47)
 
+**Steps:**
+
+**Answer**
+![image](https://github.com/user-attachments/assets/26f89638-5958-495e-94a5-88d1a77e7bab)
+------------------------------------------------------------------------------------------------------------------------------------------
+8. What is the total items and amount spent for each member before they became a member?
+
+![image](https://github.com/user-attachments/assets/799da5be-b6bd-487f-b761-e5e5dd751713)
+
+**Steps:**
+
+**Answer**
+
+![image](https://github.com/user-attachments/assets/82a0fd31-e5c1-4f58-8bf0-5110cccc6178)
+------------------------------------------------------------------------------------------------------------------------------------------
+9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier — how many points would each customer have?
 
