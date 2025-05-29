@@ -122,3 +122,14 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 ------------------------------------------------------------------------------------------------------------------------------------------
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier — how many points would each customer have?
 
+![image](https://github.com/user-attachments/assets/8044cafe-6d23-4782-a1b8-040f3c62f766)
+
+**Steps:**
+
+**Answer**
+![image](https://github.com/user-attachments/assets/72a4c89f-89f4-4465-976e-67bb85a99320)
+
+10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi — how many points do customer A and B have at the end of January?
+
+
+
