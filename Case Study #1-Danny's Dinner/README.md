@@ -130,6 +130,13 @@ Danny's Dinner restaurant has collected foundational data about its operations, 
 ![image](https://github.com/user-attachments/assets/72a4c89f-89f4-4465-976e-67bb85a99320)
 
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi — how many points do customer A and B have at the end of January?
+![image](https://github.com/user-attachments/assets/18c019cd-5693-49dd-b12e-c4537e83a5f7)
+
+**Steps:**
+
+**Answer**
+![image](https://github.com/user-attachments/assets/e16cbb4e-cf4c-4a8e-9fce-9e6f00e7813a)
+
 
 
 
