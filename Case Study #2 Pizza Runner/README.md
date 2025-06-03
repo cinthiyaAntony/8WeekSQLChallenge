@@ -29,12 +29,12 @@ The exclusions and extras columns will need to be cleaned up before using them
 
 Our course of action to clean the table:
 
-Create a temporary table with all the columns
+Create a table with all the columns
 Remove null values in exlusions and extras columns and replace with blank space ' '.
+![image](https://github.com/user-attachments/assets/2d9ff284-6736-45a8-a7eb-f3083ab258f9)
 
-![image](https://github.com/user-attachments/assets/1ba1b4cf-eb7b-41be-819b-8e656de8ceed)
 
-The  #customer_orders_tmp looks like a below and we will use this table to run all our queries.
+The  customer_orders_tmp looks like a below and we will use this table to run all our queries.
 ![image](https://github.com/user-attachments/assets/41188a3d-2739-4c70-a2eb-b6fcd035fd9c)
 
 **Table: runner_orders**
@@ -48,13 +48,11 @@ In distance column, remove "km" and nulls and replace with blank space ' '.
 In duration column, remove "minutes", "minute" and nulls and replace with blank space ' '.
 In cancellation column, remove NULL and null and and replace with blank space ' '.
 
-![image](https://github.com/user-attachments/assets/1f28f1a6-00b7-4478-a512-a7722555ff9e)
 
 **#runner_orders_tmp**
-![image](https://github.com/user-attachments/assets/5e61a4b2-64bc-43ec-aa16-233ab8b016fa)
+![image](https://github.com/user-attachments/assets/ebab35fb-59ca-480d-9cd0-1d0adcd542dc)
 
 Alter the pickup_time, distance and duration columns to the correct data type.
-
-
+![image](https://github.com/user-attachments/assets/f06ec1d6-6054-49b0-9f5a-7fc40e8b31a8)
 
 
