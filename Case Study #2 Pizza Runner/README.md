@@ -56,3 +56,34 @@ Alter the pickup_time, distance and duration columns to the correct data type.
 ![image](https://github.com/user-attachments/assets/f06ec1d6-6054-49b0-9f5a-7fc40e8b31a8)
 
 
+**A. Pizza Metrics**
+
+1. How many pizzas were ordered?
+![image](https://github.com/user-attachments/assets/0eb7fb1b-6dd8-4938-80e0-bcf77c0b728f)
+
+Answer:
+
+![image](https://github.com/user-attachments/assets/c1531dff-142c-4fd1-80df-ac6c4671057e)
+
+2. How many unique customer orders were made?
+![image](https://github.com/user-attachments/assets/59f3e0d8-486c-44eb-a185-245288ee6025)
+
+Answer:
+![image](https://github.com/user-attachments/assets/f15e060f-90f0-41fe-b0a0-0d1351d95417)
+
+3. How many successful orders were delivered by each runner?
+![image](https://github.com/user-attachments/assets/15dc9c58-80b2-4158-85f0-da296ad1edb2)
+
+Answer:
+![image](https://github.com/user-attachments/assets/14db117a-73ce-422e-84f0-4632ffc1e331)
+
+4. How many of each type of pizza was delivered?
+   
+
+
+
+
+
+
+
+
