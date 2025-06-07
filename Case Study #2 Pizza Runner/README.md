@@ -108,15 +108,36 @@ The pizza_name is DataType is a Text, Since SQL server does not allow GROUP BY, 
 
 ![image](https://github.com/user-attachments/assets/ccd87a16-72c5-4c62-8712-7283af9bffef)
 
+------------------------------------------------------------------------------------------------------------------------------------------
 6. What was the maximum number of pizzas delivered in a single order?
 
 ![image](https://github.com/user-attachments/assets/d5075ec1-964e-4ba9-97e1-6977bd27358e)
 
 **Answer:**
+
 ![image](https://github.com/user-attachments/assets/74982350-d9af-492f-a72a-09471d37db0b)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
 
+![image](https://github.com/user-attachments/assets/0ba3425d-02e8-4711-89fc-138cdc9c4fa1)
 
+**Answer:**
 
+![image](https://github.com/user-attachments/assets/a91325d6-b222-43a8-9de7-184563c743ae)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+8. How many pizzas were delivered that had both exclusions and extras?
+
+![image](https://github.com/user-attachments/assets/8ae9cc0c-dd9a-4371-b14f-3936ce54273e)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/df42540f-abd7-4b9a-b446-7f349f6a5837)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+9. What was the total volume of pizzas ordered for each hour of the day?
 
