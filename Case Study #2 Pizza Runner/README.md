@@ -141,3 +141,19 @@ The pizza_name is DataType is a Text, Since SQL server does not allow GROUP BY, 
 
 9. What was the total volume of pizzas ordered for each hour of the day?
 
+![image](https://github.com/user-attachments/assets/9b3db75c-1a3e-4237-9664-793955e6c2a9)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/c2ee88f5-5332-4d89-8c17-060b864461e1)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+10.  What was the volume of orders for each day of the week?
+
+![image](https://github.com/user-attachments/assets/32acb3ee-2235-43a1-bddc-bc660e973c91)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/c3b776d9-fdb8-452b-b840-9001956358ea)
+
+------------------------------------------------------------------------------------------------------------------------------------------
