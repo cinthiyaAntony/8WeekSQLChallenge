@@ -83,11 +83,39 @@ Alter the pickup_time, distance and duration columns to the correct data type.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 4. How many of each type of pizza was delivered?
-   
+
+**Error:**
+![image](https://github.com/user-attachments/assets/e5155c30-8eaa-4c04-9b7a-1d5e01b2c865)
+
+The pizza_name is DataType is a Text, Since SQL server does not allow GROUP BY, ORDER BY on text, ntext. We have to change the data type first.
+
+**Solution:**
+
+![image](https://github.com/user-attachments/assets/c4f354e6-9f69-4dad-b735-6e6a4a9c47d8)
 
 
+**Answer:**
+![image](https://github.com/user-attachments/assets/5b60836e-de87-4b3a-90a9-319f71065c3d)
 
+![image](https://github.com/user-attachments/assets/bf2b2271-992a-4647-9568-081b881b49e2)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+5. How many Vegetarian and Meatlovers were ordered by each customer?
+
+![image](https://github.com/user-attachments/assets/1853a6ee-bb58-4ae1-b5f6-2f0fdce874e7)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/ccd87a16-72c5-4c62-8712-7283af9bffef)
+
+6. What was the maximum number of pizzas delivered in a single order?
+
+![image](https://github.com/user-attachments/assets/d5075ec1-964e-4ba9-97e1-6977bd27358e)
+
+**Answer:**
+![image](https://github.com/user-attachments/assets/74982350-d9af-492f-a72a-09471d37db0b)
+
+7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
 
 
 
