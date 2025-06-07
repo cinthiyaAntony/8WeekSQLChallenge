@@ -157,3 +157,39 @@ The pizza_name is DataType is a Text, Since SQL server does not allow GROUP BY, 
 ![image](https://github.com/user-attachments/assets/c3b776d9-fdb8-452b-b840-9001956358ea)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+**B. Runner and Customer Experience**
+
+1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
+
+![image](https://github.com/user-attachments/assets/630cb5b5-427e-40db-9123-ea8d59729fc8)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/daaf5412-01e1-49d6-aac3-990ec305819a)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
+
+![image](https://github.com/user-attachments/assets/8258e15a-4fa9-4f55-a647-c09fda923d26)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/4d5678fd-8f68-49cd-8995-fd4e33464a5a)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
+
+![image](https://github.com/user-attachments/assets/1eafdb14-dba7-45dc-b81a-4a90abe77217)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/fea36af1-20e2-49a6-8a3b-ef33f1e39e79)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+4. What was the average distance travelled for each customer?
+
+
+
