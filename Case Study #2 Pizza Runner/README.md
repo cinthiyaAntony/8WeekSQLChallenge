@@ -191,5 +191,22 @@ The pizza_name is DataType is a Text, Since SQL server does not allow GROUP BY, 
 
 4. What was the average distance travelled for each customer?
 
+![image](https://github.com/user-attachments/assets/cdcbd6b4-249d-48ec-9399-d6db36a0b6e8)
 
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/8ff03817-0b9d-4401-a956-cbb3e1fb0aa8)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+5. What was the difference between the longest and shortest delivery times for all orders?
+
+![image](https://github.com/user-attachments/assets/405bcdd2-812f-43d6-a295-0258fa7c8db5)
+
+**Answer:**
+
+![image](https://github.com/user-attachments/assets/3edcab25-cea6-4dd2-a5d8-d4ff3668d290)
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
